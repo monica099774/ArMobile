@@ -18,12 +18,12 @@ MonoBehaviour:
     m_Storage: []
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5221117425768994269
-      m_GuidHigh: 2800764005946258061
+      m_GuidLow: 5068163779083528285
+      m_GuidHigh: 3525959001158909621
     m_SerializedTextureGuid:
-      m_GuidLow: 1753026341195559588
-      m_GuidHigh: 17114927187358004760
+      m_GuidLow: 4939421291152076386
+      m_GuidHigh: 3093448414518945498
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: astronaut
+    m_Name: BARBIE
     m_Texture: {fileID: 0}
