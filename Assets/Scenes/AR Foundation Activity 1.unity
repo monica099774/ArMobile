@@ -668,7 +668,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ARAnchorPlacer
   raycastManager: {fileID: 1145439696}
   anchorManager: {fileID: 1145439702}
-  prefabToPlace: {fileID: 1685128922627226193, guid: bdf2c5368e1886d48968435b26257902, type: 3}
+  prefabToPlace: {fileID: 919132149155446097, guid: 02751cfd0c55a4449a9646c908981418, type: 3}
 --- !u!114 &1145439702
 MonoBehaviour:
   m_ObjectHideFlags: 0
